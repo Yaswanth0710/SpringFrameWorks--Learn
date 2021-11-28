@@ -7,7 +7,7 @@
 		<title>Initiated Page</title>
 </head>
 <body>
-	<form action="ReqParmRequest" method="get">
+	<form action="PostMapping" method="post">
 		<label>Enter E_ID</label><br>
 		<input type="text" name="Eid"><br><br>
 		<label>Enter E_Name</label><br>

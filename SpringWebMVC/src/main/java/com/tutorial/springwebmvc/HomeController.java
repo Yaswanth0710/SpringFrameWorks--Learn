@@ -19,7 +19,7 @@ public class HomeController {
 	
 	@ModelAttribute
 	public void modelData (Model m) {
-		m.addAttribute("name", "Yaswanth");
+		m.addAttribute("name", "Nani");
 	}
 	
 	@RequestMapping("/")
